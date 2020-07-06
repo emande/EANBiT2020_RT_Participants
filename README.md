@@ -27,5 +27,8 @@ ___
 2. Reading
 3. Watching TV
 
-**Occupation:** Msc Bioinformatics Student 
+**Role**: Participant 
 **Institution:** Makerere University
+
+**Photo Of Mthande**
+![Mthande] (https://avatars3.githubusercontent.com/u/61830617?s=400&u=a3ae71db5e3c831345936c2783b0de21d2682a8b&v=4)
