@@ -21,3 +21,19 @@ Instituition: **ICIPE**
 Edited by: Kakembo Fredrick Elishama
 ___
 
+
+### 22. Mike Mwanga
+Institution: **Pwani University**
+
+Interests:
+1. Football
+2. Health Science
+3. Memes
+4. Graphics
+
+Role: Student
+
+Photo:
+
+![MJ](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zRlCllVLoB8yyo2N5qbUvAHaJk%26pid%3DApi&f=1)
+
