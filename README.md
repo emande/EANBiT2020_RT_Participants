@@ -8,8 +8,10 @@ Interests:
 1. Reproducible research
 1. Open science
 
-Role: Trainer / Organizer
+Role: Trainer / Organizer & Instructor
 
-Photo: 
+Photo of Caleb: 
 
-![Caleb](https://avatars2.githubusercontent.com/u/3762127?s=460&u=6207a79932618c06f74b5f21378b27fecc770eb1&v=4)
+![Caleb Picture](https://avatars2.githubusercontent.com/u/3762127?s=460&u=6207a79932618c06f74b5f21378b27fecc770eb1&v=4)
+
+Edited by: Kakembo Fredrick Elishama
