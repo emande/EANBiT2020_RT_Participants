@@ -8,7 +8,8 @@ Instituition: **ICIPE**
 1. Reproducible research
 1. Open science
 
-**Role:** Trainer / Organizer & Instructor
+
+**Role:** Trainer / Organizer / Mentor
 
 **Photo of Caleb**: 
 
