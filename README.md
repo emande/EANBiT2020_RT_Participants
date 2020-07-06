@@ -20,3 +20,12 @@ Instituition: **ICIPE**
 Edited by: Kakembo Fredrick Elishama
 ___
 
+### 30. Mthande Mzwakhile 
+
+**Interest:**
+1. Soccer
+2. Reading
+3. Watching TV
+
+**Occupation:** Msc Bioinformatics Student 
+**Institution:** Makerere University
