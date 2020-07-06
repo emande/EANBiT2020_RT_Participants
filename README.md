@@ -22,6 +22,20 @@ Edited by: Kakembo Fredrick Elishama
 ___
 
 
+### 30. Mthande Mzwakhile 
+
+**Interest:**
+1. Soccer
+2. Reading
+3. Watching TV
+
+**Role**: Participant 
+**Institution:** Makerere University
+
+**Photo Of Mthande**
+![Mthande] (https://avatars3.githubusercontent.com/u/61830617?s=400&u=a3ae71db5e3c831345936c2783b0de21d2682a8b&v=4)
+
+
 ### 22. Mike Mwanga
 Institution: **Pwani University**
 
@@ -61,3 +75,42 @@ Interests:
 1. Infectious Diseases
 
 Role: Participant
+
+
+### Geoffrey Kimani
+Instituition: **ICIPE**
+
+**Interests:** 
+1. Computer Science
+2. AI
+3. DS
+
+**Role:** Technical Support
+
+**Photo of Geoffrey**: 
+
+![Geoffrey Picture](Geoffrey.jpeg)
+
+### Akurut Eva
+Institution: **Makerere University**
+
+Interests:
+
+1. Genomics
+1. Bacterial genomics
+1. Vaccinomics
+1. Immunogenomics
+1. Human genetics
+
+Passion:
+Reading and Dancing
+
+Expectations:
+1. Learn as much as possible regarding Bioinformatics and its applications especailly new ideas.
+1. Can't wait to work on mini-projects with my collegues and be challanged
+
+Role: Participant
+
+Photo: 
+![Eva](https://avatars0.githubusercontent.com/u/44997762?s=460&u=0c71b654601d1a6d24e361dcae16fe1cb1654114&v=4)
+
