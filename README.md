@@ -4,7 +4,7 @@
 Instituition: **ICIPE**
 
 Interests: 
-1. Genomics
+1. Genomics:The branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes.
 1. Reproducible research
 1. Open science
 
