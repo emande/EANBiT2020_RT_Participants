@@ -1,12 +1,12 @@
 # EANBiT2020 Virtual Residential Training Participants
 
-### Caleb Kibet
-Instituition: ICIPE
+### 1. Caleb Kibet
+Instituition: **ICIPE**
 
 Interests: 
-1. genomics
-1. reproducible research
-1. open science
+1. Genomics
+1. Reproducible research
+1. Open science
 
 Role: Trainer / Organizer
 
