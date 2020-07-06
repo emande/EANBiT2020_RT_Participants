@@ -16,15 +16,15 @@ Photo:
 
 
 ### Akurut Eva
-Institution: Makerere University
+Institution: **Makerere University**
 
 Interests:
 
-1.Genomics
-1.Bacterial genomics
-1.Vaccinomics
-1.Immunogenomics
-1.Human genetics
+1. Genomics
+1. Bacterial genomics
+1. Vaccinomics
+1. Immunogenomics
+1. Human genetics
 
 Role: Participant
 
