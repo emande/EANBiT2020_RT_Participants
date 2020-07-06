@@ -22,6 +22,20 @@ Edited by: Kakembo Fredrick Elishama
 ___
 
 
+### 30. Mthande Mzwakhile 
+
+**Interest:**
+1. Soccer
+2. Reading
+3. Watching TV
+
+**Role**: Participant 
+**Institution:** Makerere University
+
+**Photo Of Mthande**
+![Mthande] (https://avatars3.githubusercontent.com/u/61830617?s=400&u=a3ae71db5e3c831345936c2783b0de21d2682a8b&v=4)
+
+
 ### 22. Mike Mwanga
 Institution: **Pwani University**
 
@@ -75,4 +89,4 @@ Role: Participant
 
 Photo: 
 ![Eva](https://avatars0.githubusercontent.com/u/44997762?s=460&u=0c71b654601d1a6d24e361dcae16fe1cb1654114&v=4)
-=======
+
