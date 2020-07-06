@@ -123,3 +123,16 @@ Role: Participant
 Photo: 
 ![Eva](https://avatars0.githubusercontent.com/u/44997762?s=460&u=0c71b654601d1a6d24e361dcae16fe1cb1654114&v=4)
 
+
+### Stella Esther Nabirye
+
+Instituion: Makerere University
+
+Interests:
+1. Viral Transmission patterns and mutation dynamics
+
+Role: Contributor
+
+Photo:
+![Stella](/home/stella-nabirye/Pictures/Passportsizephoto_StellaEstherNabirye.png)
+=======
