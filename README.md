@@ -7,9 +7,9 @@ Instituition: **ICIPE**
 1. Genomics
 1. Reproducible research
 1. Open science
+1. Machine learning
 
-
-**Role:** Trainer / Organizer / Mentor
+**Role:** Trainer / Organizer & Instructor / Mentor
 
 **Photo of Caleb**: 
 
@@ -17,8 +17,17 @@ Instituition: **ICIPE**
 
 **Bio**
 
+### 2. Nsangi Olga Tendo
+Instituituion: **Makerere University**
+Role: **Bioinformatics Student**
 
-Edited by: Kakembo Fredrick Elishama
+**Interests**
+1. Machine learning
+1. Genomics
+1. Reproducible research
+
+Edited by: **Olga Nsangi** 
+
 ___
 
 
