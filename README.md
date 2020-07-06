@@ -26,6 +26,13 @@ Interests:
 1. Immunogenomics
 1. Human genetics
 
+Passion:
+Reading and Dancing
+
+Expectations:
+Learn as much as possible regarding Bioinformatics and its applications especailly new ideas
+Can't wait to work on mini-projects with my collegues and be challanged
+
 Role: Participant
 
 Photo: 
