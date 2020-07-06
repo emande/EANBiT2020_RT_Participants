@@ -21,7 +21,7 @@ Instituition: **ICIPE**
 Instituituion: **Makerere University**
 Role: **Bioinformatics Student**
 
-**Intrests**
+**Interests**
 1. Machine learning
 1. Genomics
 1. Reproducible research
