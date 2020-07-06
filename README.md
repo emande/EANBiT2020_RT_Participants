@@ -8,7 +8,7 @@ Interests:
 1. Reproducible research
 1. Open science
 
-Role: Trainer / Organizer
+Role: Trainer / Organizer / Mentor
 
 Photo: 
 
