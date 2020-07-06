@@ -21,3 +21,12 @@ Instituition: **ICIPE**
 Edited by: Kakembo Fredrick Elishama
 ___
 
+### 2. Emmanuel Mande
+Instituition: **Makerere University**
+
+Interests: 
+1. Genomics
+2. Machine Learning/ Big Biodata
+3. Infectious diseases
+
+Role: Student
